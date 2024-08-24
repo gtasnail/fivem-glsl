@@ -16,7 +16,7 @@ const fragmentShaderSrc = `
   uniform vec2 u_resolution;
   uniform float u_blurStrength;
 
-  const int blurSizing = ${config.maxBlurSize};  // Decreasing this number improves performance by reducing the number of texture samples, but it will result in a less smooth (lower quality) blur effect.
+  const int blurSizing = ${config.maxBlurSize}; 
 
   float roundedBoxSDF(vec2 centerPosition, vec2 size, float radius) {
     return length(max(abs(centerPosition) - size + radius, 0.0)) - radius;
