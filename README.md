@@ -92,7 +92,7 @@ const config = {
 
 ## Conclusion
 
-This GLSL blur effect provides a unique way to enhance the visual appeal of your FiveM NUI. However, due to its performance impact, it should be used judiciously and with careful consideration of your target audience's hardware capabilities.
+This GLSL support effect provides a unique way to enhance the visual appeal of your FiveM NUI. However, due to its performance impact, it should be used judiciously and with careful consideration of your target audience's hardware capabilities.
 
 Also please note that "tearing" is an issue where the canvas render is happening (this could be virtually invisible if perfomance is good on the clients game)
 
