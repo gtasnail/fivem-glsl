@@ -73,7 +73,7 @@ Here are some examples of how i used this resource!
 
 ### Animated Effects
 
-![Video Example](/screens/wobble.mp4)
+![Video Example](/screens/gif.gif)
 
 
 ## Configuration
