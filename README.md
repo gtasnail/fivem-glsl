@@ -102,3 +102,5 @@ Feel free to experiment with different configurations and create new glsl shader
 If you use this on the FiveM Platform please if you would be so kind mention me, my forum page is https://forum.cfx.re/u/kypos <3
 
 I would love to see your usecases!
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gtasnail/fivem-glsl&type=Date)](https://star-history.com/#gtasnail/fivem-glsl&Date)
