@@ -2,6 +2,31 @@
 
 ![Project Preview](/screens/preview.png)
 
+# Usage
+## Compiling
+To compile the project, run the following command in the terminal:
+```bash
+npm i
+```
+```bash
+npm run build
+```
+
+## Importing
+<script src="nui://fivem-glsl/index.js"></script>
+
+## Using it
+### On Runtime
+<div class="blured"></div>
+or 
+<div class="blured-<value>"></div>
+
+### After loading the wom
+- make sure you run this after you put, remove or update the class
+```ts
+  ;(window as any).refreshBlurElements?.()
+```
+
 ## Overview
 
 This project demonstrates a proof-of-concept (POC) for applying GLSL-based blur effects over a FiveM game render. It uses WebGL to create customizable, real-time blur effects on specified elements over the game's user interface.
